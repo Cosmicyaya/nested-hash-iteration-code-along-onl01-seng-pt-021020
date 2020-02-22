@@ -15,6 +15,6 @@ require 'pry'
   # }
   
 def remove_strawberry(contacts)
-  contacts_each.do
+  contacts.each do
 
 end
